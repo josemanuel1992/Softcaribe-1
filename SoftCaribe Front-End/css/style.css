@@ -1,0 +1,19 @@
+.navbar-Logo{
+  height: 30px;
+  margin: -5px 0;
+}
+
+.img-team{
+  max-width: 250px;
+}
+
+.nav-lang{
+  display: inline-block !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  color: white;
+}
+
+.nav-lang.selected{
+  font-weight:700 !important;
+}
