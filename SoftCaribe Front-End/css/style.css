@@ -17,3 +17,22 @@
 .nav-lang.selected{
   font-weight:700 !important;
 }
+
+@media (min-width: 992px){
+  .service-text-size{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .col-md-4 .service-text-size{
+    width: 100%;
+  }
+
+  .col-md-6 .service-text-size{
+    width: 66.66666666%;
+  }
+
+  .col-md-12 .service-text-size{
+    width: %;
+  }
+}
